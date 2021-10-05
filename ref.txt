@@ -1,0 +1,15 @@
+// Comentar multilinea.
+// Shift + Alt + A
+
+// Emprolijar el tabulado
+// Shift + Alt + F
+
+// https://regex101.com/
+
+// Font Awesome (Iconos web)
+https://fontawesome.com/
+
+// Word Wrap // Comando de VSC
+Ctrl + Shift + P
+Emmet: Wrap with Abre...
+Escriben código Emmet
